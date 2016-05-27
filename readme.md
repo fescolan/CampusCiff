@@ -5,19 +5,19 @@
 
 # 2. Clonar
 
-# Crear README.
+# CREAR README.MD
 
 
-# Commit inicial
+# COMMMIT INICIAL
 
 
-# Push inicial
+# PUSH INICIAL
 #Subo el readme.md
 # git add -A
 # git add commit "Subir readme"
 
 
-#Ignorar 
+#IGNORAR
 #Pasos:
 #Crear carpeta privada, boton derecho, estilo bill gates
 #Crear fichero privado, boton derecho, estilo bill gates
